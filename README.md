@@ -1,5 +1,5 @@
-## **Uber Trip Time Series Analysis
-**
+## **Uber Trip Time Series Analysis**
+
 ## **Authors:**
 1. Suman Senapati
 2. Koelgeet Kaur

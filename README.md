@@ -1,20 +1,22 @@
-Uber Trip Time Series Analysis
-add Codeadd Markdown
-Authors:
+**Uber Trip Time Series Analysis
+**
+**Authors:**
 Suman Senapati
 
 Koelgeet Kaur
 
 Dr. Sanjay Kumar
 
-add Codeadd Markdown
-Overview
+
+**Overview
+**
+
 This comprehensive dataset provides detailed information about ride-hailing services in New York City, with a primary focus on Uber operations during 2014-2015. The data was obtained through Freedom of Information Law (FOIL) requests submitted by FiveThirtyEight to the NYC Taxi & Limousine Commission (TLC) in July 2015.
 
-Dataset Source:
+**Dataset Source:**
 source: https://github.com/fivethirtyeight/uber-tlc-foil-response
 
-Dataset Scope
+**Dataset Scope**
 Uber Pickups: Over 18.8 million records
 4.5+ million pickups (April-September 2014)
 14.3+ million pickups (January-June 2015)
@@ -28,7 +30,9 @@ Analysis of Uber's service coverage in NYC's outer boroughs compared to traditio
 Examination of the relationship between public transit and ride-hailing services
 Assessment of Uber's impact on Manhattan's traditional taxi market
 Investigation into Uber's effect on NYC rush-hour traffic patterns
-Data Structure
+
+**Data Structure
+**
 2014 Uber Data (April-September)
 Files are organized monthly with the following columns:
 
@@ -73,7 +77,7 @@ TLC correspondence: Documentation of the FOIL request process (TLC_letter.pdf se
 Data Collection Context
 The data was released in multiple batches throughout 2015 as the TLC reviewed and processed the records. This systematic release ensures comprehensive coverage while maintaining data quality standards. The inclusion of TLC correspondence provides transparency regarding the data collection process and any potential limitations or considerations in the dataset.
 
-Technical Notes
+**Technical Notes**
 Location data is provided in two formats:
 Direct geographical coordinates (2014 data)
 LocationID reference system (2015 data)
@@ -81,7 +85,6 @@ Base codes serve as important identifiers for tracking operational patterns
 The dataset structure evolved from 2014 to 2015, reflecting enhanced data collection practices
 This dataset represents a significant resource for understanding the evolution of ride-hailing services in New York City and their impact on urban transportation patterns during a critical growth period.
 
-add Codeadd Markdown
 Based on the dataset we are working on, we may look at the following goals/objectives:
 
 1. Ride Demand Prediction

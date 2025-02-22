@@ -122,7 +122,7 @@ Use Case: Helps Uber optimize surge pricing and driver incentives.
 
 
 
-## **Mermaid Diagram:**
+## **IoT System Diagram:**
 
 ```mermaid
 

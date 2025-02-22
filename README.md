@@ -121,3 +121,71 @@ Models:
 Time Series Forecasting (LSTM, ARIMA, Prophet)
 Classification (Random Forest, XGBoost)
 Use Case: Helps Uber optimize surge pricing and driver incentives.
+
+
+
+Mermaid Diagram:
+
+```mermaid
+
+flowchart TB
+    subgraph VehicleLayer["Vehicle Layer"]
+        GPS["GPS Sensor"]
+        Mobile["Driver App"]
+        Telemetry["Vehicle Telemetry"]
+    end
+
+    subgraph EdgeLayer["Edge Processing"]
+        Gateway["Mobile Gateway"]
+        subgraph Processing["Real-time Processing"]
+            direction LR
+            Location["Location Tracking"]
+            Status["Trip Status"]
+            Matching["Driver-Rider Matching"]
+        end
+    end
+
+    subgraph DataLayer["Data Management Layer"]
+        Cloud["Cloud Platform"]
+        subgraph Storage["Data Storage"]
+            direction LR
+            TripDB[(Trip Database)]
+            GeoDB[(Geo Database)]
+            DriverDB[(Driver Database)]
+        end
+        subgraph Services["Core Services"]
+            direction LR
+            Auth["Authentication"]
+            Dispatch["Dispatch System"]
+            Analytics["Real-time Analytics"]
+        end
+    end
+
+    subgraph ReportingLayer["Analysis Layer"]
+        direction LR
+        TripAnalysis["Trip Analysis"]
+        GeoAnalysis["Geographical Analysis"]
+        Reports["TLC Reporting"]
+        Visualization["Data Visualization"]
+    end
+
+    %% Data Flow Connections
+    GPS --> Mobile
+    Telemetry --> Mobile
+    Mobile --> Gateway
+    Gateway --> Processing
+    Processing --> Cloud
+    Cloud --> Storage
+    Storage --> Services
+    Services --> ReportingLayer
+
+    %% Add specific data points
+    note["Key Data Points:
+    - Pickup Date/Time
+    - Location (Lat/Lon)
+    - Base Code
+    - Driver Info
+    - Trip Status"]
+
+
+```

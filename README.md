@@ -1,29 +1,27 @@
-**Uber Trip Time Series Analysis
+## **Uber Trip Time Series Analysis
 **
-**Authors:**
-Suman Senapati
-
-Koelgeet Kaur
-
-Dr. Sanjay Kumar
+## **Authors:**
+1. Suman Senapati
+2. Koelgeet Kaur
+3. Dr. Sanjay Kumar
 
 
-**Overview
-**
+## **Overview**
 
 This comprehensive dataset provides detailed information about ride-hailing services in New York City, with a primary focus on Uber operations during 2014-2015. The data was obtained through Freedom of Information Law (FOIL) requests submitted by FiveThirtyEight to the NYC Taxi & Limousine Commission (TLC) in July 2015.
 
-**Dataset Source:**
+## **Dataset Source:**
 source: https://github.com/fivethirtyeight/uber-tlc-foil-response
 
-**Dataset Scope**
-Uber Pickups: Over 18.8 million records
+## **Dataset Scope**
+
+#### Uber Pickups: Over 18.8 million records
 4.5+ million pickups (April-September 2014)
 14.3+ million pickups (January-June 2015)
 Additional FHV Data:
 Individual trip data from 10 for-hire vehicle companies
 Aggregated data covering 329 FHV companies
-Research Impact
+#### Research Impact
 The dataset has been instrumental in several significant FiveThirtyEight investigations:
 
 Analysis of Uber's service coverage in NYC's outer boroughs compared to traditional taxis
@@ -31,8 +29,8 @@ Examination of the relationship between public transit and ride-hailing services
 Assessment of Uber's impact on Manhattan's traditional taxi market
 Investigation into Uber's effect on NYC rush-hour traffic patterns
 
-**Data Structure
-**
+## **Data Structure**
+
 2014 Uber Data (April-September)
 Files are organized monthly with the following columns:
 
@@ -77,7 +75,7 @@ TLC correspondence: Documentation of the FOIL request process (TLC_letter.pdf se
 Data Collection Context
 The data was released in multiple batches throughout 2015 as the TLC reviewed and processed the records. This systematic release ensures comprehensive coverage while maintaining data quality standards. The inclusion of TLC correspondence provides transparency regarding the data collection process and any potential limitations or considerations in the dataset.
 
-**Technical Notes**
+## **Technical Notes**
 Location data is provided in two formats:
 Direct geographical coordinates (2014 data)
 LocationID reference system (2015 data)
@@ -124,7 +122,7 @@ Use Case: Helps Uber optimize surge pricing and driver incentives.
 
 
 
-Mermaid Diagram:
+## **Mermaid Diagram:**
 
 ```mermaid
 

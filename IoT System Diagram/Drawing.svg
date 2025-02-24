@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#425E87;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:24px;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st6{font-size:19px;}
+	.st7{font-size:12px;}
+	.st8{font-size:16px;}
+	.st9{font-size:13px;}
+</style>
+<rect id="XMLID_1_" x="-8.4" y="-4.8" class="st0" width="976.9" height="568.7"/>
+<rect id="XMLID_3_" x="137.1" y="14.9" class="st1" width="685.7" height="61.9"/>
+<text id="XMLID_2_" transform="matrix(1 0 0 1 274.2874 31.9715)" class="st2 st3 st4">IoT System Diagram for Uber Pickup Data</text>
+<rect id="XMLID_4_" x="38.9" y="48.7" class="st5" width="889.8" height="480.3"/>
+<rect id="XMLID_38_" x="56.7" y="270.1" class="st5" width="294.1" height="248.2"/>
+<rect id="XMLID_6_" x="57" y="64.5" class="st5" width="293.9" height="182.3"/>
+<rect id="XMLID_7_" x="125.7" y="76" class="st1" width="154.4" height="25.9"/>
+<text id="XMLID_8_" transform="matrix(1 0 0 1 150.6406 89.5376)" class="st2 st3 st6">Vehicle Layer</text>
+<rect id="XMLID_9_" x="76" y="107" class="st2" width="98.6" height="39.8"/>
+<rect id="XMLID_10_" x="230.8" y="107" class="st2" width="98.6" height="39.8"/>
+<rect id="XMLID_11_" x="153.6" y="183.1" class="st2" width="98.6" height="39.8"/>
+<g id="XMLID_12_">
+	<g id="XMLID_37_">
+		<line id="XMLID_75_" class="st5" x1="137.7" y1="147.7" x2="168.8" y2="179.7"/>
+		<g id="XMLID_59_">
+			<path id="XMLID_69_" class="st2" d="M173,184c-2.7-1.3-6.5-2.6-9.4-2.8l4.6-2.1l2.2-4.6C170.6,177.5,171.8,181.2,173,184z"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_13_">
+	<g id="XMLID_32_">
+		<line id="XMLID_35_" class="st5" x1="257" y1="146.8" x2="234.2" y2="179.1"/>
+		<g id="XMLID_33_">
+			<path id="XMLID_34_" class="st2" d="M230.8,184c0.8-2.9,1.3-6.8,1-9.7l2.9,4.1l4.9,1.3C236.8,180.4,233.3,182.3,230.8,184z"/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_14_" x="90.3" y="121.9" class="st1" width="68.7" height="19.7"/>
+<text id="XMLID_15_" transform="matrix(1 0 0 1 96.4155 130.3838)" class="st3 st7">GPS Sensor</text>
+<rect id="XMLID_17_" x="235.8" y="121.9" class="st1" width="88.6" height="19.7"/>
+<text id="XMLID_16_" transform="matrix(1 0 0 1 240.3498 130.3838)"><tspan x="0" y="0" class="st3 st7">Vehicle Teleme</tspan><tspan x="75.8" y="0" class="st3 st7">-</tspan></text>
+<rect id="XMLID_19_" x="167.1" y="198.1" class="st1" width="68.7" height="19.7"/>
+<text id="XMLID_18_" transform="matrix(1 0 0 1 174.4376 206.6452)" class="st3 st7">Driver App</text>
+<rect id="XMLID_21_" x="124.2" y="282.9" class="st1" width="154.4" height="25.9"/>
+<text id="XMLID_20_" transform="matrix(1 0 0 1 146.8259 294.2376)" class="st2 st3 st8">Edge Processing</text>
+<rect id="XMLID_24_" x="140.5" y="299.9" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_23_" x="154" y="311.9" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_22_" transform="matrix(1 0 0 1 157.8965 320.4518)" class="st3 st7">Mobile Gateweay</text>
+<g id="XMLID_25_">
+	<g id="XMLID_81_">
+		<line id="XMLID_84_" class="st5" x1="201.5" y1="223" x2="201.5" y2="278"/>
+		<g id="XMLID_82_">
+			<path id="XMLID_83_" class="st2" d="M201.5,284c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C204.4,277.6,202.6,281.2,201.5,284z"/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_28_" x="75.7" y="387.7" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_27_" x="86.1" y="399.8" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_26_" transform="matrix(1 0 0 1 89.1241 408.2894)" class="st3 st7">Location Tracking</text>
+<rect id="XMLID_76_" x="209.8" y="387.7" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_30_" x="218.2" y="399.8" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_29_" transform="matrix(1 0 0 1 239.0991 408.2894)" class="st3 st7">Trip Status</text>
+<rect id="XMLID_79_" x="153.6" y="444.5" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_78_" x="159" y="456.5" class="st1" width="111.9" height="19.7"/>
+<text id="XMLID_77_" transform="matrix(1 0 0 1 159.811 465.0627)" class="st3 st7">Driver-Rider Matching</text>
+<rect id="XMLID_85_" x="66.2" y="368" class="st5" width="274.1" height="140.1"/>
+<g id="XMLID_86_">
+	<g id="XMLID_97_">
+		<line id="XMLID_100_" class="st5" x1="203.5" y1="340" x2="203.5" y2="360"/>
+		<g id="XMLID_98_">
+			<path id="XMLID_99_" class="st2" d="M203.5,366c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C206.4,359.6,204.6,363.2,203.5,366z"/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_56_" x="374.7" y="60.1" class="st5" width="294.1" height="458.2"/>
+<rect id="XMLID_55_" x="419.1" y="69.7" class="st1" width="204.4" height="34.2"/>
+<text id="XMLID_54_" transform="matrix(1 0 0 1 439.3307 81.0565)" class="st2 st3 st8">Data Management Layer</text>
+<rect id="XMLID_53_" x="458.5" y="89.9" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_52_" x="469.3" y="102.9" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_51_" transform="matrix(1 0 0 1 479.1093 111.4285)" class="st3 st7">Cloud Platform</text>
+<rect id="XMLID_48_" x="402.1" y="176.8" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_47_" transform="matrix(1 0 0 1 431.0977 185.2894)" class="st2 st3 st7">Trip Db</text>
+<rect id="XMLID_40_" x="384.2" y="150" class="st5" width="274.1" height="148.1"/>
+<g id="XMLID_39_">
+	<g id="XMLID_95_">
+		<line id="XMLID_103_" class="st5" x1="519.5" y1="122" x2="519.5" y2="142"/>
+		<g id="XMLID_101_">
+			<path id="XMLID_102_" class="st2" d="M519.5,148c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C522.4,141.6,520.6,145.2,519.5,148z"
+				/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_58_" x="417.5" y="154" class="st1" width="204.4" height="34.2"/>
+<text id="XMLID_57_" transform="matrix(1 0 0 1 484.4886 163.2298)" class="st2 st3 st9">Data Storage</text>
+<g id="XMLID_64_">
+	<ellipse id="XMLID_60_" class="st5" cx="449.3" cy="181.5" rx="38.8" ry="10.9"/>
+	<ellipse id="XMLID_62_" class="st5" cx="449.3" cy="213" rx="38.8" ry="10.9"/>
+	<line id="XMLID_61_" class="st5" x1="487.5" y1="182" x2="487.5" y2="213"/>
+	<line id="XMLID_63_" class="st5" x1="410.5" y1="182" x2="410.5" y2="214"/>
+</g>
+<rect id="XMLID_49_" x="542.1" y="175.8" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_46_" transform="matrix(1 0 0 1 570.6836 184.2894)" class="st2 st3 st7">Geo Db</text>
+<g id="XMLID_41_">
+	<ellipse id="XMLID_45_" class="st5" cx="589.3" cy="180.5" rx="38.8" ry="10.9"/>
+	<ellipse id="XMLID_44_" class="st5" cx="589.3" cy="212" rx="38.8" ry="10.9"/>
+	<line id="XMLID_43_" class="st5" x1="627.5" y1="181" x2="627.5" y2="212"/>
+	<line id="XMLID_42_" class="st5" x1="550.5" y1="181" x2="550.5" y2="213"/>
+</g>
+<rect id="XMLID_94_" x="472.1" y="243.8" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_93_" transform="matrix(1 0 0 1 495.644 252.2894)" class="st2 st3 st7">Driver Db</text>
+<g id="XMLID_65_">
+	<ellipse id="XMLID_92_" class="st5" cx="519.3" cy="248.5" rx="38.8" ry="10.9"/>
+	<ellipse id="XMLID_91_" class="st5" cx="519.3" cy="280" rx="38.8" ry="10.9"/>
+	<line id="XMLID_90_" class="st5" x1="557.5" y1="249" x2="557.5" y2="280"/>
+	<line id="XMLID_66_" class="st5" x1="480.5" y1="249" x2="480.5" y2="281"/>
+</g>
+<g id="XMLID_50_">
+	<g id="XMLID_105_">
+		<line id="XMLID_108_" class="st5" x1="351" y1="284.5" x2="369" y2="284.5"/>
+		<g id="XMLID_106_">
+			<path id="XMLID_107_" class="st2" d="M375,284.5c-2.8,1.1-6.4,2.9-8.5,4.8l1.7-4.8l-1.7-4.8C368.6,281.6,372.2,283.4,375,284.5z"
+				/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_67_" x="384.7" y="333.6" class="st5" width="274.1" height="148.1"/>
+<g id="XMLID_68_">
+	<g id="XMLID_112_">
+		<line id="XMLID_115_" class="st5" x1="521.5" y1="298" x2="521.5" y2="328"/>
+		<g id="XMLID_113_">
+			<path id="XMLID_114_" class="st2" d="M521.5,333.6c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7
+				C524.4,327.2,522.6,330.7,521.5,333.6z"/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_71_" x="419.1" y="340" class="st1" width="204.4" height="34.2"/>
+<text id="XMLID_70_" transform="matrix(1 0 0 1 485.1911 349.2298)" class="st2 st3 st9">Core Services</text>
+<rect id="XMLID_72_" x="395.7" y="359.9" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_73_" x="527.1" y="359.9" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_74_" x="463.2" y="419.5" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_88_" x="405.5" y="373" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_87_" transform="matrix(1 0 0 1 415.3563 381.5131)" class="st3 st7">Authentication</text>
+<rect id="XMLID_110_" x="540.5" y="373" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_109_" transform="matrix(1 0 0 1 546.4564 381.5131)" class="st3 st7">Dispatch System</text>
+<rect id="XMLID_117_" x="473.3" y="432.6" class="st1" width="105.2" height="19.7"/>
+<text id="XMLID_116_" transform="matrix(1 0 0 1 477.2806 441.1508)" class="st3 st7">Real-Time Analytics</text>
+<g id="XMLID_118_">
+	<g id="XMLID_129_">
+		<line id="XMLID_132_" class="st5" x1="670" y1="278.5" x2="688" y2="278.5"/>
+		<g id="XMLID_130_">
+			<path id="XMLID_131_" class="st2" d="M694,278.5c-2.8,1.1-6.4,2.9-8.5,4.8l1.7-4.8l-1.7-4.8C687.6,275.6,691.2,277.4,694,278.5z"
+				/>
+		</g>
+	</g>
+</g>
+<rect id="XMLID_119_" x="694" y="60.1" class="st5" width="221.7" height="458.2"/>
+<rect id="XMLID_121_" x="706.3" y="67.7" class="st1" width="204.4" height="34.2"/>
+<text id="XMLID_120_" transform="matrix(1 0 0 1 761.7064 79.0458)" class="st2 st3 st8">Analysis Layer</text>
+<rect id="XMLID_122_" x="743.9" y="109.8" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_123_" x="747.6" y="221.7" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_124_" x="747.6" y="328.1" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_125_" x="751.2" y="436.6" class="st2" width="121.8" height="39.8"/>
+<rect id="XMLID_127_" x="758.4" y="123.1" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_126_" transform="matrix(1 0 0 1 774.5083 131.6559)" class="st3 st7">Trip Analysis</text>
+<rect id="XMLID_134_" x="749.2" y="235.9" class="st1" width="118.2" height="19.7"/>
+<text id="XMLID_133_" transform="matrix(1 0 0 1 753.1948 244.4523)" class="st3 st7">Geographical Analysis</text>
+<rect id="XMLID_136_" x="759.8" y="341.1" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_135_" transform="matrix(1 0 0 1 771.7438 349.6559)" class="st3 st7">TLC Reporting</text>
+<rect id="XMLID_138_" x="762.6" y="449.7" class="st1" width="94.9" height="19.7"/>
+<text id="XMLID_137_" transform="matrix(1 0 0 1 765.4348 458.1993)" class="st3 st7">Data Visualization</text>
+</svg>
